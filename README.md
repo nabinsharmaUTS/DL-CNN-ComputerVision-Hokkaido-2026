@@ -8,7 +8,7 @@
 ##
 **Dr. Nabin Sharma, PhD, SMIEEE** <br/>
 Associate Professor,<br/>
-Co-Director (Intelligent Drone Lab),<br/>
+Co-Founder and Director (Intelligent Drone Lab),<br/>
 Course Director: Master and Bachelor of Artificial Intelligence <br/>
 Faculty of Engineering and Information Technology,<br/>
 University of Technology Sydney,<br/>
