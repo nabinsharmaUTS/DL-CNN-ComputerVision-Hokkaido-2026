@@ -1,9 +1,9 @@
 # Deep Learning and CNN for Computer Vision <br/> Lecture at Hokkaido University, Japan
-## 2nd session
+## 3rd session
 
 #
-**Start date:** July 07, 2025 <br/>
-**Delivery Mode:** Online (ZOOM)
+**Start date:** July 06, 2026 <br/>
+**Delivery Mode:** In-Person, at Hokkaido University
 
 ##
 **Dr. Nabin Sharma, PhD, SMIEEE** <br/>
@@ -34,16 +34,16 @@ The course seeks to provide a strong foundation in CNN architectures and their u
 
 | DAY | DATE | START TIME | Topics Covered |
 | --- | --- | --- | --- |
-| Day 1 | Monday, July 07   | 10.30am JST, 12.30pm AEST | Introduction, Image Processing & NN Basics - 2 Lectures |
-| Day 2 | Tuesday, July 08 | 10.30am JST, 12.30pm AEST | CNN Basics and Image Classification Techniques - 2 Lectures |
-| Day 3 | Wednesday, July 09  | 10.30am JST, 12.30pm AEST | Object Detection Methods with CNNs - 2 Lectures |
-| Day 4 | Thursday, July 10    | 10.30am JST, 12.30pm AEST | Image Segmentation and Advanced Topics in CNNs, Case Studies - 2 Lectures |
+| Day 1 | Monday, July 06   | 10.30am JST  | Introduction, Image Processing & NN Basics - 2 Lectures |
+| Day 2 | Tuesday, July 07 | 10.30am JST | CNN Basics and Image Classification Techniques - 2 Lectures |
+| Day 3 | Wednesday, July 08  | 10.30am JST | Object Detection Methods with CNNs - 2 Lectures |
+| Day 4 | Thursday, July 09   | 10.30am JST| Image Segmentation and Advanced Topics in CNNs, Case Studies - 2 Lectures |
 
 
 ### Each Day Schedule
-* Lecture session-1 : 10:30 - 12:00 JST (11:30 - 13:00 AEST) 
-* Lecture session-2 : 13:00 - 14:30 JST (14:00 - 15:30 AEST)
-* Hands-on session  : 14:30 - 16:30 JST (15:30 - 17:30 AEST) 
+* Lecture session-1 : 10:30 - 12:00 JST
+* Lecture session-2 : 13:00 - 14:30 JST
+* Hands-on session  : 14:30 - 16:30 JST 
 
 ## Assessment/Evaluation:
 * Task 1: Image Classification on a public dataset (Multi-class classification) 
@@ -71,5 +71,5 @@ The course seeks to provide a strong foundation in CNN architectures and their u
 [![InkWell AI](Images/IW-Thumnail.jpg)](https://www.youtube.com/watch?v=D9GNhsgHb20?si=VUev875Ly68ZBV_I)
 
 ## Feedback
-Please provide your valuable feedback using this form: [Feedback Form](https://forms.office.com/r/34HQJJePv4)
+Please provide your valuable feedback using this form: [Feedback Form](Will be shared shortly)
 This is help us to improve the content and delivery methodology for future sessions.
